@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "Hangzhou, China"
+title                    : "谢霆豪 / 个人介绍"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "XieTingHao(谢霆豪)"
+description              : &description "Hi, I'm XieTingHao(谢霆豪 in Chinese).I am currently a Master student at Zhejiang University, advised by Dr. Kai Bu. Before coming to Zhejiang University, I obtained my bachelor degree of Geology from School of Earth Science, ZheJiang University.It's my pleasure to exchange research achievements and learning experience here. "
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "XieTinghao(谢霆豪)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Master Student @ Zhejiang University"
+  location         : "Hangzhou,Zhejiang"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "22221044@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
